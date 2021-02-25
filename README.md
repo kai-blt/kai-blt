@@ -5,7 +5,6 @@ I am currently attending Lambda School, an Immersive 6 month Full Stack Web Deve
 
 Check out my [portfolio](https://portfolio-flax-theta.vercel.app/) if you get the chance!
 
-
 ![Brendan Lai-Tong](https://github-readme-stats.vercel.app/api?username=kai-blt)
 
 <!--
