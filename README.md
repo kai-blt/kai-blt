@@ -5,7 +5,7 @@ I attended Lambda School, an Immersive 6 month Full Stack Web Development progra
 
 Check out my [portfolio](https://portfolio-flax-theta.vercel.app/) if you get the chance!
 
-![Brendan Lai-Tong](https://github-readme-stats.vercel.app/api?username=kai-blt)
+
 
 <!--
 **kai-blt/kai-blt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
